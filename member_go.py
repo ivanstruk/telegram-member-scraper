@@ -102,6 +102,4 @@ for x in chat_list_index:
         get(x)
     except:
         print("No more groups.", end = " ")
-        pass
-    pass
 print("Done")
