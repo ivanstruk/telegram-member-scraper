@@ -24,6 +24,5 @@ To install Telethon you can do:
 Once you have fulfilled the requirements go ahead an launch the script from your command prompt or terminal.
 Please note that your output folder will be the same directory as where you have your script saved. 
 
-## Feedback:
-This is my first submission to Github, and I am quite fresh to python so please feel free to send me any constructive feedback:
-mailto:ivan.s@eastmillcapital.com 
+## Warning:
+I no longer maintain this repo. 
